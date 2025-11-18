@@ -17,15 +17,6 @@
 - 🚀 Building [Portfolio](https://zahooronly.vercel.app) & [Promptify](https://github.com/zahooray/promptify)
 - ✍️ Sharing thoughts on AI & XAI & GenAI
 
-## Analytics
-
-  <!-- GitHub Streak Stats with enhanced styling -->
-  <div style="display: flex; justify-content: center; gap: 5px; margin-top: 20px;">
-
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahooray&theme=transparent&hide_border=true&stroke=4B0082&ring=FF1493&fire=FF4500&currStreakNum=4B0082&currStreakLabel=4B0082&sideNums=4B0082&sideLabels=4B0082&dates=666666&background=FFFFFF&border=4B0082&stroke_width=2&ring_width=4&fire_width=4" alt="Streak Stats" />
-
-  </div>
-
 ### **CONTRIBUTION FLOW**
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zahooray&theme=minimal&hide_border=true&bg_color=000000&color=ffffff&line=FF6B6B&point=FF6B6B&area=true&area_color=FFE5E5&height=300" alt="Contribution Graph"/>
@@ -41,8 +32,6 @@
 - **📱 [CropChain Mobile](https://play.google.com/store/apps/details?id=com.cropchain.app) | [Web](https://fyp-cropchain.vercel.app/)** — Decentralized agricultural ecosystem
 
 ---
-
-## 🛠️ Technology Arsenal
 
 ### **CURRENT LEARNING JOURNEY**
 
