@@ -5,17 +5,14 @@
   <a href="https://linkedin.com/in/zahooray">LinkedIn</a> •
   <a href="https://github.com/zahooray">GitHub</a> •
   <a href="https://leetcode.com/zahooray">LeetCode</a> •
-  <a href="https://zahooronly.vercel.app">Portfolio</a> •
   <a href="mailto:dev.zahoor@gmail.com">Email</a>
 </p>
 
 ### 👨‍💻 About Me
 
 - 🧠 CS Grad | 🧑‍🏫 Educator | 🧪 Researcher
-- 🛠️ T3 Stack, MERN, React Native, Python & FastAPI
+- 🛠️ MERN, React Native, Python & FastAPI
 - 🧬 Learning: LangChain, XAI, ML/DL, Web Scraping
-- 🚀 Building [Portfolio](https://zahooronly.vercel.app) & [Promptify](https://github.com/zahooray/promptify)
-- ✍️ Sharing thoughts on AI & XAI & GenAI
 
 ### **CONTRIBUTION FLOW**
 
@@ -45,7 +42,4 @@
 
 **Backend & DB**  
 [`Node.js`](https://nodejs.org/) • [`Express`](https://expressjs.com/) • [`FastAPI`](https://fastapi.tiangolo.com/) • [`Python`](https://www.python.org/) • [`MongoDB`](https://www.mongodb.com/) • [`PostgreSQL`](https://www.postgresql.org/) • [`MySQL`](https://www.mysql.com/) • [`Firebase`](https://firebase.google.com/) • [`Neon.Tech`](https://neon.tech/)
-
-**DevOps & Tools**  
-[`Vercel`](https://vercel.com/) • [`Firebase`](https://firebase.google.com/) • [`Docker`](https://www.docker.com/) • [`Git`](https://git-scm.com/) • [`Figma`](https://www.figma.com/)
 
